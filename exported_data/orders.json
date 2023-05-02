@@ -1,0 +1,2 @@
+{"_id":{"$oid":"644febffcf380e3c70cee9f2"},"username":"bong@example.com","orderdate":{"$date":"2023-05-01T16:42:39.33Z"},"details":[{"code":"200","name":"Brewed Coffee","qty":1,"subtotal":132.0},{"code":"400","name":"Espresso","qty":1,"subtotal":144.0}]}
+{"_id":{"$oid":"644ff25fb5005bc9f4de0355"},"username":"bong@example.com","orderdate":{"$date":"2023-05-01T17:09:51.86Z"},"details":[{"code":"200","name":"Brewed Coffee","qty":1,"subtotal":132.0},{"code":"400","name":"Espresso","qty":2,"subtotal":288.0}]}

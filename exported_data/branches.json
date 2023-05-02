@@ -1,0 +1,5 @@
+{"_id":{"$oid":"644ff5e3193c678b22cdf1ce"},"code":"1","name":"Katipunan","phonenumber":"09179990000"}
+{"_id":{"$oid":"644ff5e3193c678b22cdf1cf"},"code":"2","name":"Tomas Morato","phonenumber":"09179990001"}
+{"_id":{"$oid":"644ff5e3193c678b22cdf1d0"},"code":"3","name":"Eastwood","phonenumber":"09179990002"}
+{"_id":{"$oid":"644ff5e3193c678b22cdf1d1"},"code":"4","name":"Tiendesitas","phonenumber":"09179990003"}
+{"_id":{"$oid":"644ff5e3193c678b22cdf1d2"},"code":"5","name":"Arcovia","phonenumber":"09179990004"}

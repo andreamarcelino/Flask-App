@@ -1,0 +1,6 @@
+{"_id":{"$oid":"644fe908193c678b22cdf1c3"},"code":100,"name":"Americano","price":150.0}
+{"_id":{"$oid":"644fe908193c678b22cdf1c4"},"code":200,"name":"Brewed Coffee","price":132.0}
+{"_id":{"$oid":"644fe908193c678b22cdf1c5"},"code":300,"name":"Cappuccino","price":144.0}
+{"_id":{"$oid":"644fe908193c678b22cdf1c6"},"code":400,"name":"Espresso","price":144.0}
+{"_id":{"$oid":"644fe908193c678b22cdf1c7"},"code":500,"name":"Latte","price":168.0}
+{"_id":{"$oid":"644fe908193c678b22cdf1c8"},"code":600,"name":"Cold Brew","price":240.0}
